@@ -1,0 +1,112 @@
+body{
+
+    background-image: url("52452427-seamless-pattern-for-todo-list-universal-background.jpg");
+    margin: 0em;
+}
+
+.logo{
+    width: 400px;
+    height: 150px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+
+}
+
+.head{
+    width: 100%;
+    background-color:#31b0d4;
+    
+}
+
+.type{
+    width: 50%;
+    
+    background-color:whitesmoke;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  text-align: center;
+  border-radius: 10px;
+  padding: 30px 20px;
+}
+
+
+.list{
+    width: 80%;
+    height: auto;
+    background-color: #fcee90;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 8px;
+  
+  border-radius: 10px;
+  padding: 50px 5px 100px 10px;
+  
+  
+  
+}
+
+.text{
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.btn{
+
+    width: 150px;
+  background-color: #31b0d4;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+
+}
+
+.btn:hover {
+    background-color: #2b9aba;
+}
+
+.btn2{
+    width: 80px;
+  background-color:whitesmoke;
+  color: black;
+  padding: 8px 15px;;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+  
+  
+
+}
+
+.listItem{
+
+    font-size: 25px;
+    
+    font-family: cursive;
+}
+
+.btn2:hover {
+    background-color: rgb(71, 70, 70);
+    color: whitesmoke;
+}
+
+.checkBox{
+    float: right;
+    width: 28px;
+    height: 28px;
+    margin-left: 10px;
+}
